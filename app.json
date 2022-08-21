@@ -1,0 +1,9 @@
+{
+  "name": "Promedium",
+  "description": "Promedium",
+  "keywords": [
+    "proxy",
+    "go"
+  ],
+  "repository": "https://github.com/securepo/HerokuFreeProxy"
+}
